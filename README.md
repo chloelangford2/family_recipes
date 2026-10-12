@@ -3,6 +3,6 @@
 recipes from grandma
 
 * pizza 
-  - [base](./pizzas/base.md)（from Chen
+  - [base](./pizzas/base_chen.md)（from Chen
 * sauces 
 * spread  
